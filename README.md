@@ -1,4 +1,4 @@
-# internal-apps-using
+# please install all the web services and apps and login to them
 
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)";
 
@@ -28,4 +28,14 @@ brew cask install gas-mask;
 
 # other
 
-onedrive
+appstore - onedrive
+
+Sketch
+
+Origami
+
+workflowy (web + app)
+
+moo.do (web + app)
+
+invision (web)
