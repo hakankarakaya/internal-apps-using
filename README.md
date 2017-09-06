@@ -20,15 +20,13 @@ brew cask install the-unarchiver;
 
 brew cask install microsoft-teams;
 
-brew cask install sequel-pro;
+brew cask install joinme;
 
 brew cask install sourcetree;
 
-brew cask install gas-mask;
-
 # other
 
-appstore - onedrive
+appstore - onedrive 
 
 Sketch
 
@@ -39,3 +37,12 @@ workflowy (web + app)
 moo.do (web + app)
 
 invision (web)
+
+
+# Backend
+
+brew cask install sequel-pro;
+
+brew cask install sourcetree;
+
+brew cask install gas-mask;
