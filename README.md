@@ -33,13 +33,19 @@ brew cask install joinme;
 
 brew cask install sourcetree;
 
-# other
+# For Design
 
 appstore - onedrive 
 
 Sketch
 
 Origami
+
+# For Product
+
+Please sign all of them with your company email.
+
+asana (web + app)
 
 workflowy (web + app)
 
