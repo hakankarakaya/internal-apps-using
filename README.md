@@ -8,8 +8,9 @@ brew tap caskroom/cask;
 
 # services
 github (2 step auth)
-
 gitlab 
+
+Please share the github and gitlab username with Sahin.
 
 
 # essentials 
