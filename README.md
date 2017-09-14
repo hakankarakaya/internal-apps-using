@@ -1,8 +1,6 @@
 # please install all the web services and apps and login to them 
 # please also update your profile image
 
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)";
-
 brew tap caskroom/cask;
 
 
