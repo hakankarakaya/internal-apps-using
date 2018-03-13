@@ -27,6 +27,8 @@ brew cask install the-unarchiver;
 
 brew cask install microsoft-teams;
 
+brew cask install discord;
+
 brew cask install joinme;
 
 brew cask install sourcetree;
@@ -37,7 +39,7 @@ appstore - onedrive
 
 Sketch
 
-Origami
+
 
 # For Product
 
@@ -50,6 +52,10 @@ workflowy (web + app)
 moo.do (web + app)
 
 invision (web)
+
+framer
+
+marvelapp.com
 
 
 # Backend
