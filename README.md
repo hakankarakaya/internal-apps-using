@@ -31,11 +31,9 @@ brew cask install sourcetree;
 
 # For Design
 
-appstore - onedrive 
+[onedrive](https://itunes.apple.com/us/app/onedrive/id823766827?mt=12)
 
-Sketch
-
-
+[Sketch](https://www.sketchapp.com/)
 
 # For Product/UX
 
