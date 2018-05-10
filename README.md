@@ -15,8 +15,6 @@ Please share the github and gitlab username with Sahin.
 
 brew cask install iterm2;
 
-brew cask install authy-desktop;
-
 brew cask install lastpass;
 
 brew cask install alfred;
@@ -24,8 +22,6 @@ brew cask install alfred;
 brew cask install atom;
 
 brew cask install the-unarchiver;
-
-brew cask install microsoft-teams;
 
 brew cask install discord;
 
