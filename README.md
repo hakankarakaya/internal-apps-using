@@ -41,13 +41,11 @@ Sketch
 
 
 
-# For Product
+# For Product/UX
 
 Please sign all of them with your company email.
 
 asana (web + app)
-
-workflowy (web + app)
 
 moo.do (web + app)
 
