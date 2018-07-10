@@ -13,6 +13,10 @@ Please share the github and gitlab username with Sahin.
 
 # essentials 
 
+brew cask install teams;
+
+brew cask install franz;
+
 brew cask install iterm2;
 
 brew cask install lastpass;
@@ -33,13 +37,13 @@ brew cask install sourcetree;
 
 [onedrive](https://itunes.apple.com/us/app/onedrive/id823766827?mt=12)
 
-[Sketch](https://www.sketchapp.com/)
+[google drive](https://itunes.apple.com/us/app/onedrive/id823766827?mt=12)
+
+[Sketch](https://www.google.com/drive/download/)
 
 # For Product/UX
 
 Please sign all of them with your company email.
-
-asana (web + app)
 
 moo.do (web + app)
 
