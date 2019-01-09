@@ -10,6 +10,10 @@ gitlab
 
 Please share the github and gitlab username with Sahin.
 
+# chat
+discord
+zoom 
+
 
 # essentials 
 
