@@ -1,7 +1,6 @@
 # please install all the web services and apps and login to them 
 # please also update your profile image
 
-brew tap caskroom/cask;
 
 
 # services
@@ -11,8 +10,11 @@ gitlab
 Please share the github and gitlab username with Sahin.
 
 # chat
-discord
+slack
 zoom 
+
+
+brew tap caskroom/cask;
 
 
 # essentials 
