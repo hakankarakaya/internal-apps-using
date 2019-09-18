@@ -19,8 +19,6 @@ brew tap caskroom/cask;
 
 # essentials 
 
-brew cask install franz;
-
 brew cask install iterm2;
 
 brew cask install lastpass;
@@ -34,20 +32,16 @@ brew cask install atom;
 
 [google drive](https://itunes.apple.com/us/app/onedrive/id823766827?mt=12)
 
-[Sketch](https://www.google.com/drive/download/)
 
 # For Product/UX
 
 Please sign all of them with your company email.
 
-invision (web)
 
 framer
 https://zeplin.io
 
 # Developer 
-
-brew cask install joinme;
 
 brew cask install sourcetree;
 
