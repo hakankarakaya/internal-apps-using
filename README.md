@@ -5,16 +5,19 @@
 
 # services
 github (2 step auth)
+
 gitlab 
 
 Please share the github and gitlab username with Sahin.
 
 # chat
 slack
+
 zoom 
 
 # remote working
 DeskTime
+
 remoteteam.com
 
 
