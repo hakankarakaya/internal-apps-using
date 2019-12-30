@@ -13,6 +13,10 @@ Please share the github and gitlab username with Sahin.
 slack
 zoom 
 
+# remote working
+DeskTime
+remoteteam.com
+
 
 brew tap caskroom/cask;
 
@@ -32,6 +36,7 @@ brew cask install atom;
 
 [google drive](https://itunes.apple.com/us/app/onedrive/id823766827?mt=12)
 
+Zeplin (for Mockups)
 
 # For Product/UX
 
@@ -42,7 +47,8 @@ framer
 https://zeplin.io
 
 # Developer 
-
+Insomnia (for GraphQL)
+GitUp (for GitLab)
 brew cask install sourcetree;
 
 # Backend
